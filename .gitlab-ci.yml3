@@ -1,0 +1,8 @@
+#A job with sayHello name
+sayHello:
+   script: 
+      - echo "hi"
+#A job with sayBye name
+sayBye:
+   script:
+      - echo "Bye"
